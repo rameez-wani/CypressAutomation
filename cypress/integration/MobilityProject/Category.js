@@ -5,7 +5,7 @@ describe('Categories Screen', function () {
 
    const mobilityObject = new MobilityObj()
 
-// Create multiple categories in one goo
+// Create multiple categories in one go
 
    it("Create multiple categories in one go", function () 
    {
