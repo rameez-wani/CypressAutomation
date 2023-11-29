@@ -36,7 +36,7 @@ describe('Login Page', function()
 
  })
 
-// Show Password
+// Show Passwords
 
  it('Show Password', function()
  {
